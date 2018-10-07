@@ -8,6 +8,8 @@
     <string name="action_settings">Settings</string>
     <string-array name="vaccine">
 
+
+
         <item>Varicella (chickenpox) vaccine</item>
         <item>Rotavirus vaccine (RV)</item>
         <item>Hepatitis A vaccine</item>
