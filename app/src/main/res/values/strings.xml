@@ -6,4 +6,34 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string-array name="vaccine">
+
+        <item>Varicella (chickenpox) vaccine</item>
+        <item>Rotavirus vaccine (RV)</item>
+        <item>Hepatitis A vaccine</item>
+        <item>Meningococcal va
+            ccine (MCV)</item>
+        <item>Human papillomavirus vaccine (HPV)</item>
+        <item>Tdap booster</item>
+        <item>BACILLUS CALMETTE GUERIN (BCG) VACCINE</item>
+        <item>HEPATITIS B VACCINE (Hep B)</item>
+
+    </string-array>
+
+    <string-array name="Uses">
+
+
+
+        <item>According to the Centers for Disease Control and Prevention (CDC), all healthy children ages 12 months through 18 years should have two doses of the chickenpox vaccination. The CDC recommends the first vaccination be given between 12 and 15 months, and the second between 4 and 6 years of age.</item>
+        <item>Rotavirus is a highly contagious virus that can lead to severe diarrhea in infants and young children. It often causes vomiting and fever. If left untreated, it can cause severe dehydration and even death.According to PATH, an international nonprofit healthcare organization, each year more than 500,000 children around the world die from diarrheal disease, and one-third of these deaths are caused by rotavirus. Millions more are hospitalized each year after being infected with the virus.</item>
+
+        <item>Hepatitis A is an acute liver disease caused by the hepatitis A virus. Symptoms can last from a few weeks to several months.While hepatitis A doesn’t typically develop into a chronic disease, in some cases symptoms can become severe and last several months. Symptoms can include fatigue, stomach pain, nausea, and jaundice (yellowing of the skin and the whites of your eyes).</item>
+        <item>Meningococcal disease is a serious bacterial illness that can cause meningitis (inflammation of the protective layer surrounding the brain and spinal cord) and bloodstream infection. Children can get meningococcal disease by living in close quarters with others, sharing utensils, kissing, or inhaling the secondhand smoke of an infected person.</item>
+
+        <item>Human papillomavirus vaccine (HPV) is a common virus that’s passed through genital contact. According to the CDC, almost 80 million people (about 1 in 4) are infected in the United States, with about 14 million people becoming infected each year.Some strains of HPV don’t lead to other problems, but others can cause complications</item>
+        <item>Tdap boosters are combination booster shots that protect adults and children against three diseases that used to be very common in the United States before this vaccine was developed.Since Tdap boosters have been administered, the CDC reports that cases of tetanus and diphtheria have decreased by 99 percent and cases of pertussis have dropped by around 80 percent. Most states have some type of Tdap vaccination requirement for children, teens, and young adults. </item>
+        <item>BCG vaccine is derived from the bovine tuberculosis strain and was first developed in 1921. The vaccine contains 0.1–0.4 million live viable bacilli per dose .At Birth or as early as possible within the first 3 days</item>
+
+    </string-array>
+
 </resources>
